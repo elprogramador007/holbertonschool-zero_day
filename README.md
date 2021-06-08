@@ -54,6 +54,21 @@ I am a student at Holberton Peru, with 10 years of experience in the field of sy
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
 
---># holbertonschool-zero_day
+-->
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 # holbertonschool-zero_day
-# holbertonschool-zero_day
+
+<img align="CENTER" alt="GIF" src="https://www.holbertonschool.com/holberton-logo.png" width="360px"/>
